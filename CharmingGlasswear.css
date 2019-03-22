@@ -1,0 +1,32 @@
+﻿body 
+{
+    background-color: #eac693;
+    font-size: 100%;
+    margin-top: 0px; 
+    padding-top: 80px;
+    padding-bottom: 80px;
+    line-height: 1.4em;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    text-decoration: none;
+    color: #000;
+    font-weight: normal;
+    text-align: center
+}
+p
+{
+    font-family: Fondamento
+}
+.shadowW
+{
+    text-shadow: 1px 1px 1px #fff
+}	
+.shadowB
+{
+    text-shadow: 2px 2px 2px #000
+}
+.shadowBr
+{
+    text-shadow: 2px 2px 2px #8d6226
+}   
